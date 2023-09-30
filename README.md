@@ -1,2 +1,5 @@
 # test_git_commands
-NEW NEW NEW NEW TEXT IN NEW BRANCH
+<<<<<<< HEAD
+TEXT IN NEW BRANCH
+=======
+>>>>>>> parent of 1f61290 (Start)
